@@ -1,12 +1,15 @@
-### Hi there 👋
+### Hi, I'm Jonathan Lambert (@lambej) 👋
 
+🔭 I’m currently working with Flutter
+🌱 I’m currently learning [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/)
+👀 I'm interested in cloud, mobile and AI development.
 <!--
 **lambej/lambej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning [Microsoft Azure AI Fundamentals](https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
